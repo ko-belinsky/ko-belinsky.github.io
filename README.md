@@ -10,5 +10,10 @@
 
 <details>
   <summary>Raketa</summary>
-  <img src="https://github.com/ko-belinsky/ko-belinsky.github.io/blob/main/raketa.png?raw=true alt="Disks">   <img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fko-belinsky.github.io%2Fraketa.zpk&4&0" alt="qr">
+  <img src="https://github.com/ko-belinsky/ko-belinsky.github.io/blob/main/raketa.png?raw=true alt="Raketa">   <img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fko-belinsky.github.io%2Fraketa.zpk&4&0" alt="qr">
+</details>
+
+<details>
+  <summary>Chrono</summary>
+  <img src="https://github.com/ko-belinsky/ko-belinsky.github.io/blob/main/chrono.png?raw=true alt="Chrono">   <img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fko-belinsky.github.io%2Fchrono.zpk&4&0" alt="qr">
 </details>
